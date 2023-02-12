@@ -1,0 +1,38 @@
+{
+
+    "homepage":{
+
+
+
+        "navigation":{
+    "title1": "Dine in",
+    "title2":"Grocery",
+    "title3":"Delivery",
+    "title4":"Help",
+    "signin":"Sign In",
+    "signout":"Sign Out"
+        },
+        "search":"Search",
+   
+
+    "mainsection":{
+
+        "title1": "Ordering Your Food Became",
+        "title2":"a Piece of Healthy Cake !",
+        "subtitle":"Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscingelit, Sed Do Eiusmod Tempor",
+        "order":"Go",
+        "area":"Choose Your Area"
+
+    },
+    "category":{
+
+        "title1": "Our Categories"
+       
+
+    }
+
+
+
+}
+
+  }
