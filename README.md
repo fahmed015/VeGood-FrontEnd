@@ -1,20 +1,4 @@
-# nuxtapp
+<img width="1436" alt="Screenshot 2023-02-12 at 2 19 27 PM" src="https://user-images.githubusercontent.com/73857543/218310766-0cee7d71-ff01-4771-8ae7-481e0bd5b083.png">
 
-## Build Setup
+<img width="1432" alt="Screenshot 2023-02-12 at 2 19 36 PM" src="https://user-images.githubusercontent.com/73857543/218310769-939a0769-5095-415d-9c1e-5c13ed689fe3.png">
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
